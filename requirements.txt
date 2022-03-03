@@ -20,6 +20,7 @@ debugpy==1.5.1
 defusedxml==0.7.1
 distlib==0.3.4
 Django==3.0
+django-heroku==0.3.1
 entrypoints==0.3
 filelock==3.3.2
 flatbuffers==1.12
