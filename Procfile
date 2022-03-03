@@ -1,1 +1,1 @@
-web: gunicorn finalPython.wsgi 
+web: gunicorn finalPython.finalPython.wsgi 
