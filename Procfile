@@ -1,1 +1,1 @@
-web: gunicorn CCMS.wsgi 
+web: gunicorn finalPython.wsgi 
