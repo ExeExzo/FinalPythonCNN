@@ -1,1 +1,1 @@
-web:gunicorn finalPython.wsgi --log-file -
+web:gunicorn cnn.wsgi --log-file -
