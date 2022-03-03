@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'cnn.apps.CnnConfig.cnn'
+    'cnn.apps.CnnConfig'
 ]
 
 MIDDLEWARE = [
@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'finalPython.wsgi.application'
+WSGI_APPLICATION = 'finalPython.finalPython.wsgi.application'
 
 
 # Database
